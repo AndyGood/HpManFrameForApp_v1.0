@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/hpFrame/http/okhttp/cookie/PersistentCookieStore.java" />
+        <ignore path="src/com/hpFrame/http/okhttp/cookie/SerializableHttpCookie.java" />
+    </issue>
+</lint>

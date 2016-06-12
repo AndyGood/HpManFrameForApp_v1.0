@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="cdf7dc51e2ee2aa7dca7faa04f2cf27f9c63620a">
+        <dex dex="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/pre-dexed/debug/instant-run_b1fce832feb60e7eedd8ae5dd8ca8304e2e5aac3.jar" />
+    </item>
+    <item
+        jar="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/pre-dexed/debug/gson-2.6.2_8877fec574b1db2bed48d7e2029ded533a210fee.jar" />
+    </item>
+    <item
+        jar="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/libs/android-support-v4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/pre-dexed/debug/android-support-v4_f0d2e2e60b6d8300187e819f38e44e418ea21a92.jar" />
+    </item>
+    <item
+        jar="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/libs/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/pre-dexed/debug/okio-1.6.0_3804de3d03ed497f401685dcf7b49a41538863dd.jar" />
+    </item>
+    <item
+        jar="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/libs/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/pre-dexed/debug/okhttp-3.2.0_c075754aa8e1327039798bec9342d4f448939ef8.jar" />
+    </item>
+    <item
+        jar="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="45937d89b1f5208e79f313e6ccfb519f81f52125">
+        <dex dex="/Users/laihaipeng/AndroidStudioProjects/MyFrame/HpManFrameForApp_v1.0/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ef0c8354f7b92767d2d6ed0b9923183b037fec8b.jar" />
+    </item>
+
+</items>
